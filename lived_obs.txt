@@ -1,0 +1,6 @@
+IE1	New York
+IE2	Illinois
+IE3	Washington
+IE5	Maryland
+IE4	New York
+IE6	New York

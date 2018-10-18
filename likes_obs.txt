@@ -1,0 +1,8 @@
+IE2	Machine Learning	1
+IE1	Machine Learning	1
+IE5	Machine Learning	1
+IE4	Machine Learning	1
+IE3	Machine Learning	1
+IE6	Machine Learning	1
+IE1	Skeeball	1
+IE6	Trivia	0.6
