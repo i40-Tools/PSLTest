@@ -1,7 +1,6 @@
 Belt	Motor	1
 Belt	Roller	1
-Belt	Drive	0.9
 Belt	ControlUnit	0.9
-Drive	Motor	0.8
-Drive	Roller	0.8
-Roller	ControlUnit	0.8
+ControlUnit	Motor	0.9
+ControlUnit	Roller	0.9
+Belt	Drive	0.9
