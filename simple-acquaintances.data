@@ -1,15 +1,15 @@
 predicates:
-  Knows/2: open
+  same/2: open
   Likes/2: closed
   Lived/2: closed
 
 observations:
-  Knows : knows_obs.txt
+  same : same_obs.txt
   Lived : lived_obs.txt
   Likes : likes_obs.txt
 
 targets:
-  Knows : knows_targets.txt
+  same : same_targets.txt
 
 truth:
-  Knows : knows_truth.txt
+  same : same_truth.txt

@@ -10,7 +10,6 @@ Roller	Belt	0
 Roller	Motor	0
 Roller	ControlUnit	0
 Roller	Drive	0
-ControlUnit	Belt	0
 ControlUnit	Motor	0
 ControlUnit	Roller	0
 ControlUnit	Drive	0
