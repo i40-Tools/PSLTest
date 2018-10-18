@@ -1,6 +1,0 @@
-Belt	Motor
-Belt	Roller
-Belt	ControlUnit
-Belt	Drive
-ControlUnit	Roller
-ControlUnit	Motor

@@ -1,0 +1,8 @@
+Belt1	Motor1	1
+Belt1	Roller1	1
+Belt2	ControlUnit2	1
+ControlUnit2	Motor2	1
+ControlUnit2	Roller2	1
+Belt3	Drive3	1
+Belt3	Motor3	1
+Belt3	Roller3	1

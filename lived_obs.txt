@@ -1,5 +1,5 @@
-Belt	First
-Motor	Second
-Roller	Second
-ControlUnit	Second
-Drive	Second
+Belt1	First
+Motor1	Second
+Roller1	Second
+ControlUnit2	Second
+Drive3	Second

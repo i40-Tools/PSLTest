@@ -1,15 +1,15 @@
 predicates:
-  same/2: open
+  isRelated/2: open
   Likes/2: closed
   Lived/2: closed
 
 observations:
-  same : same_obs.txt
+  isRelated : isRelated_obs.txt
   Lived : lived_obs.txt
   Likes : likes_obs.txt
 
 targets:
-  same : same_targets.txt
+  isRelated : isRelated_targets.txt
 
 truth:
-  same : same_truth.txt
+  isRelated : isRelated_truth.txt
