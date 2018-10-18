@@ -1,5 +1,10 @@
 Belt1	First
+Belt2	First
+Belt3	First
 Motor1	Second
-Roller1	Second
+Motor2	Third
+Roller2	Third
 ControlUnit2	Second
 Drive3	Second
+Motor3	Third
+Roller3	Third
