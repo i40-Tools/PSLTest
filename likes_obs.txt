@@ -1,7 +1,7 @@
-Belt	Machine Learning	1
-Belt	Skeeball	1
-Motor	Machine Learning	1
-Roller	Machine Learning	1
-ControlUnit	Machine Learning	1
-Drive	Machine Learning	1
-Drive	Trivia	0.6
+Belt	Motor	1
+Belt	Roller	1
+Belt	Drive	0.9
+Belt	ControlUnit	0.9
+Drive	Motor	0.8
+Drive	Roller	0.8
+Roller	ControlUnit	0.8

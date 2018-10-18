@@ -1,7 +1,7 @@
 Belt	Motor	1
 Belt	Roller	1
+Belt	Drive	1
 Belt	ControlUnit	0
-Belt	Drive	0
 Motor	Belt	0
 Motor	Roller	0
 Motor	ControlUnit	0
@@ -14,7 +14,6 @@ ControlUnit	Belt	0
 ControlUnit	Motor	0
 ControlUnit	Roller	0
 ControlUnit	Drive	0
-ControlUnit	IE6	0
 Drive	Belt	0
 Drive	Motor	0
 Drive	Roller	0
