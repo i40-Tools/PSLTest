@@ -1,7 +1,7 @@
-IE1	Machine Learning	1
-IE1	Skeeball	1
-IE2	Machine Learning	1
-IE3	Machine Learning	1
-IE4	Machine Learning	1
-IE5	Machine Learning	1
-IE5	Trivia	0.6
+Belt	Machine Learning	1
+Belt	Skeeball	1
+Motor	Machine Learning	1
+Roller	Machine Learning	1
+ControlUnit	Machine Learning	1
+Drive	Machine Learning	1
+Drive	Trivia	0.6
