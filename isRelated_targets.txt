@@ -7,4 +7,5 @@ ControlUnit2	Motor2
 ControlUnit2	Roller2
 Belt3	Drive3
 Belt3	Motor3
-Belt3	Roller3		
+Belt3	Roller3
+Drive3	Roller3		
