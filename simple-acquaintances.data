@@ -1,12 +1,12 @@
 predicates:
   isRelated/2: open
-  Likes/2: closed
+  hasAttribute/2: closed
   Lived/2: closed
 
 observations:
   isRelated : isRelated_obs.txt
   Lived : lived_obs.txt
-  Likes : likes_obs.txt
+  hasAttribute : hasAttribute_obs.txt
 
 targets:
   isRelated : isRelated_targets.txt
