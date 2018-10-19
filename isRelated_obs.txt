@@ -7,9 +7,11 @@ Belt2	ControlUnit2
 Belt2	Roller1
 Belt2	Roller2
 Belt2	Roller3
+Belt2	Motor2
 Belt2	Belt3
 Motor1	Motor2
 Motor1	Motor3
+Motor1	Roller1
 Motor1	Roller2
 Motor1	Roller3
 Motor1	Drive3
@@ -28,6 +30,7 @@ Motor3	Roller1
 Motor3	Drive3
 Roller1	Drive3
 Roller1	ControlUnit2
+Roller1	Motor1
 Roller1	Motor2
 Roller1	Motor3
 Roller1	Roller2

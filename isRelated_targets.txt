@@ -1,7 +1,5 @@
 Belt1	Motor1
 Belt1	Roller1
-Motor1	Roller1
-Roller1	Motor1
 Belt2	ControlUnit2
 Belt2	Motor2
 Belt2	Roller2

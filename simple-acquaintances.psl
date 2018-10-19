@@ -1,6 +1,6 @@
 20: Lived(P1, L) & Lived(P2, L) & (P1 != P2) -> isRelated(P1, P2) ^2
 
-5: Lived(P1, L1) & Lived(P2, L2) & (P1 != P2) & (L1 != L2) -> !isRelated(P1, P2) ^2
+5: hasAttribute(P1, L1) & hasAttribute(P2, L2) & (P1 != P2) & (L1 != L2) -> !isRelated(P1, P2) ^2
 
 5: hasAttribute(P1, L) & hasAttribute(P2, L) & (P1 != P2) -> isRelated(P1, P2) ^2
 
