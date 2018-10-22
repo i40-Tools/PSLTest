@@ -1,7 +1,10 @@
-5: hasAttribute(P1, L1) & hasAttribute(P2, L2) & (P1 != P2) & (L1 != L2) -> !isRelated(P1, P2) ^2
+5: hasAttribute(E1, E3) & hasAttribute(E2, E4) & (E1 != E2) & (E3 != E4) -> !isRelated(E1, E2) ^2
 
-20: hasAttribute(P1, L) & hasAttribute(P2, L) & (P1 != P2) -> isRelated(P1, P2) ^2
+20: hasAttribute(E1, E3) & hasAttribute(E2, E3) & (E1 != E2) -> isRelated(E1, E2) ^2
 
-10: isRelated(P1, P2) & isRelated(P2, P3) & (P1 != P3) -> isRelated(P1, P3) ^2
+10: isRelated(E1, E2) & isRelated(E2, E3) & (E1 != E3) -> isRelated(E1, E3) ^2
 
-5: !isRelated(P1, P2) ^2
+10: hasAttribute(E1, E2) & (E1 != E2) -> isRelated(E1, E2) ^2
+
+5: !isRelated(E1, E2) ^2
+
