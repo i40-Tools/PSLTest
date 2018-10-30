@@ -1,8 +1,9 @@
-Belt1	Motor1	1
-Belt1	Roller1	1
-Belt2	ControlUnit2	0.9
-ControlUnit2	Motor2	0.9
-ControlUnit2	Roller2	0.9
-Belt3	Drive3	0.8
-Belt3	Motor3	0.9
-Drive3	Roller3	0.8
+Belt1	Motor1	1.0
+Belt1	Roller1	0.8
+Motor1	Roller1	0.8
+Belt2	Drive2	1.0
+Drive2	Roller2	0.8
+Belt2	Roller2	0.8
+Belt3	ControlUnit3	1.0
+ControlUnit3	Motor3	0.3
+ControlUnit3	Roller3	0.3

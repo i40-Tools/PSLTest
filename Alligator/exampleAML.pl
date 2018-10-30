@@ -6,7 +6,7 @@
 :-dynamic(hasAttribute/2).
 
 clause1(isRelated(E1,E2), (hasAttribute(E1,E2))).
-clause1(isRelated(E1,E2), (hasAttribute(E1,L),hasAttribute(E2,L))).
+clause1(isRelated(E1,E2), (hasAttribute(E1,E3),hasAttribute(E2,E3))).
 clause1(isRelated(E1,E3), (hasAttribute(E1,E2),hasAttribute(E2,E3))).
 clause1(isRelated(E1,E2), (isRelated(E1,E2),isRelated(E2,E3))).
 
